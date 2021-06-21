@@ -10,6 +10,4 @@ Create reandom Cat Memes!
 
 ---
 
-# Erste Übungsaufgabe: You vs. Will
-
 Die Anleitung zur Aufgabe (*Handout*) finden Sie [hier](https://multimedia-engineering.git-pages.uni-regensburg.de/mme-online/#/Aufgaben/SS21/SS21-Cat-Meme-Generator). 
